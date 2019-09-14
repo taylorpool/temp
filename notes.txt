@@ -1,0 +1,2 @@
+%r should only be used for debugging. It gives the representation of the variable.
+%s should be use instead for everything else.

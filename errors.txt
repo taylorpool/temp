@@ -1,0 +1,1 @@
+Calling a string from %r puts that string in single quotation marks
